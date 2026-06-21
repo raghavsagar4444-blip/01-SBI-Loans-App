@@ -3,8 +3,15 @@ kaise ho bhai?
 int i=1 
 int j=20
 
+<<<<<<< Updated upstream
 
 
 public void m2(){
 //logic
 }
+=======
+public void m1(){
+	int k=400;
+	int l=800;
+}
+>>>>>>> Stashed changes
