@@ -3,3 +3,8 @@ kaise ho bhai?
 int i=1 
 int j=20
 
+
+
+public void m2(){
+//logic
+}
