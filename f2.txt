@@ -20,4 +20,4 @@ hi linganna
 hello macha welcome
 
 hello guys sorry for joining late
-
+int d = 500
