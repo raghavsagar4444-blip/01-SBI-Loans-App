@@ -3,3 +3,4 @@ kaise ho bhai?
 int i=1 
 int j=20
 
+string name="raghav"
