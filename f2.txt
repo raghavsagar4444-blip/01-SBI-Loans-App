@@ -1,2 +1,4 @@
 good morning how are you
 kaise ho bhai?
+int i=1 
+int j=20
