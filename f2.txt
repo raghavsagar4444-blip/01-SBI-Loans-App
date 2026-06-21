@@ -1,5 +1,6 @@
 good morning how are you
 kaise ho bhai?
+<<<<<<< HEAD
 int i=1 
 int j=20
 
